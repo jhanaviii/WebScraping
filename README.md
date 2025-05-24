@@ -1,5 +1,5 @@
 # Odisha RERA Project Scraper
-
+(internshala assignment)
 This Python script scrapes the first 6 projects listed under the “Projects Registered” section of the [Odisha RERA Website](https://rera.odisha.gov.in/projects/project-list) and extracts the following details:
 
 - RERA Registration Number
