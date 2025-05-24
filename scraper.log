@@ -1,0 +1,615 @@
+2025-05-24 11:50:15,637 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 11:50:15,638 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 11:50:24,198 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 11:50:24,199 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 11:50:24,199 - INFO - 🔄 Processing project 1/6
+2025-05-24 11:50:30,495 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 11:50:35,668 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 11:50:41,906 - INFO - ✅ Found RERA No: RP/01/2025/01362
+2025-05-24 11:50:41,925 - INFO - ✅ Found Project Name: Projects
+2025-05-24 11:50:46,023 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 11:50:46,045 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 11:50:46,064 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 11:50:46,081 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 11:50:48,086 - INFO - 🔄 Processing project 2/6
+2025-05-24 11:50:54,441 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 11:50:59,553 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 11:51:05,793 - INFO - ✅ Found RERA No: RP/19/2025/01361
+2025-05-24 11:51:05,816 - INFO - ✅ Found Project Name: Projects
+2025-05-24 11:51:09,910 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 11:51:09,959 - INFO - ✅ Found Promoter Name: SHYAMCHAND BUILDERS PRIVATE LIMITED
+2025-05-24 11:51:09,977 - INFO - ✅ Found Address: MIG-II, 21/2, Housing Board Co,Chandrasekharpur,Bhubaneswar,Khordha,Odisha,751016
+2025-05-24 11:51:09,990 - INFO - ✅ Found GST No: 21ABCCS4755J1ZB
+2025-05-24 11:51:11,996 - INFO - 🔄 Processing project 3/6
+2025-05-24 11:51:18,321 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 11:51:23,435 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 11:51:29,676 - INFO - ✅ Found RERA No: PS/28/2025/01360
+2025-05-24 11:51:29,693 - INFO - ✅ Found Project Name: Projects
+2025-05-24 11:51:33,784 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 11:51:33,868 - INFO - ✅ Found Address: PLOT NO-2570,PODDAR HEIGHTS,PODDAR COLONY,KHETRAJPUR,Sambalpur,Odisha,768003
+2025-05-24 11:51:33,880 - INFO - ✅ Found GST No: 21AREPP3171E1Z7
+2025-05-24 11:51:35,886 - INFO - 🔄 Processing project 4/6
+2025-05-24 11:51:42,201 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 11:51:47,341 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 11:51:53,561 - INFO - ✅ Found RERA No: PS/7/2025/01358
+2025-05-24 11:51:53,578 - INFO - ✅ Found Project Name: Projects
+2025-05-24 11:51:57,667 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 11:51:57,709 - INFO - ✅ Found Promoter Name: KRISHNA PROPERTIES & DEVELOPERS PRIVATE LIMITED
+2025-05-24 11:51:57,730 - INFO - ✅ Found Address: Plot No-46,Indraprastha Housing Colony, Phase-ii, Pokhariput,Bhubaneswar,Odisha-751020,,,,,
+2025-05-24 11:51:57,745 - INFO - ✅ Found GST No: 21AAECK8663L2Z7
+2025-05-24 11:51:59,751 - INFO - 🔄 Processing project 5/6
+2025-05-24 11:52:06,068 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 11:52:11,184 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 11:52:17,405 - INFO - ✅ Found RERA No: PS/19/2025/01351
+2025-05-24 11:52:17,423 - INFO - ✅ Found Project Name: Projects
+2025-05-24 11:52:21,551 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 11:52:21,587 - INFO - ✅ Found Promoter Name: SUNSHINE INFRATECH
+2025-05-24 11:52:21,608 - INFO - ✅ Found Address: PLOT NO 339,GOUTAMNAGAR,BJB NAGAR,Khordha,Odisha,751014
+2025-05-24 11:52:21,623 - INFO - ✅ Found GST No: 21ACMFS3976P1ZC
+2025-05-24 11:52:23,626 - INFO - 🔄 Processing project 6/6
+2025-05-24 11:52:29,921 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 11:52:35,044 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 11:52:41,341 - INFO - ✅ Found RERA No: RP/19/2025/01355
+2025-05-24 11:52:41,358 - INFO - ✅ Found Project Name: Projects
+2025-05-24 11:52:45,449 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 11:52:45,472 - INFO - ✅ Found Promoter Name: TRILOCHAN PROJECTS AND DEVELOPERS PVT. LTD
+2025-05-24 11:52:45,489 - INFO - ✅ Found Address: Plot No-208, Flat No-301,Trilochan Plaza,Saheed Nagar,Bhubaneswer,Khordha,Odisha,751007
+2025-05-24 11:52:45,504 - INFO - ✅ Found GST No: 21AAGCT0547E1ZT
+2025-05-24 11:52:47,758 - INFO - ✅ Data saved to odisha_rera_projects_enhanced.xlsx
+2025-05-24 11:52:47,760 - INFO - ✅ Data saved to odisha_rera_projects_enhanced.csv
+2025-05-24 11:52:47,760 - INFO - ✅ Data saved to odisha_rera_projects_enhanced.json
+2025-05-24 12:13:19,372 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 12:13:19,373 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 12:13:23,961 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:13:23,961 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 12:13:23,961 - INFO - 🔄 Processing project 1/6
+2025-05-24 12:13:27,282 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:13:32,381 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 12:13:35,571 - INFO - ✅ Found Project Name: 146195
+2025-05-24 12:13:35,606 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 12:13:37,706 - INFO - 🔄 Processing project 2/6
+2025-05-24 12:13:40,901 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:13:47,071 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 12:13:50,205 - INFO - ✅ Found Project Name: 146196
+2025-05-24 12:13:50,230 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 12:13:52,291 - INFO - 🔄 Processing project 3/6
+2025-05-24 12:13:55,645 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:14:01,795 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 12:14:04,928 - INFO - ✅ Found Project Name: 146198
+2025-05-24 12:14:04,953 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 12:14:07,009 - INFO - 🔄 Processing project 4/6
+2025-05-24 12:14:10,201 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:14:16,337 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 12:14:19,472 - INFO - ✅ Found Project Name: 146201
+2025-05-24 12:14:19,496 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 12:14:21,548 - INFO - 🔄 Processing project 5/6
+2025-05-24 12:14:24,777 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:14:30,960 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 12:14:34,132 - INFO - ✅ Found Project Name: 146202
+2025-05-24 12:14:34,173 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 12:14:36,225 - INFO - 🔄 Processing project 6/6
+2025-05-24 12:14:39,417 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:14:45,564 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 12:14:48,711 - INFO - ✅ Found Project Name: 146202
+2025-05-24 12:14:48,735 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 12:14:51,022 - INFO - ✅ Data saved to odisha_rera_projects_fixed.xlsx
+2025-05-24 12:14:51,025 - INFO - ✅ Data saved to odisha_rera_projects_fixed.csv
+2025-05-24 12:14:51,025 - INFO - ✅ Data saved to odisha_rera_projects_fixed.json
+2025-05-24 12:26:05,528 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 12:26:05,528 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 12:26:22,814 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:26:22,814 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 12:26:22,814 - INFO - 🔄 Processing project 1/6
+2025-05-24 12:26:29,106 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:26:34,242 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 12:26:40,497 - INFO - ✅ Found RERA No: RP/01/2025/01362
+2025-05-24 12:26:40,538 - INFO - ✅ Found Project Name: Basanti Enclave
+2025-05-24 12:26:44,658 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 12:26:44,717 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 12:26:44,743 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 12:26:44,763 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 12:26:46,768 - INFO - 🔄 Processing project 2/6
+2025-05-24 12:26:53,066 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:26:58,175 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 12:27:04,414 - INFO - ✅ Found RERA No: RP/19/2025/01361
+2025-05-24 12:27:04,445 - INFO - ✅ Found Project Name: UDYAYEEN
+2025-05-24 12:27:08,533 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 12:27:08,578 - INFO - ✅ Found Promoter Name: SHYAMCHAND BUILDERS PRIVATE LIMITED
+2025-05-24 12:27:08,600 - INFO - ✅ Found Address: MIG-II, 21/2, Housing Board Co,Chandrasekharpur,Bhubaneswar,Khordha,Odisha,751016
+2025-05-24 12:27:08,617 - INFO - ✅ Found GST No: 21ABCCS4755J1ZB
+2025-05-24 12:27:10,623 - INFO - 🔄 Processing project 3/6
+2025-05-24 12:27:16,924 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:27:22,019 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 12:27:28,224 - INFO - ✅ Found RERA No: PS/28/2025/01360
+2025-05-24 12:27:28,256 - INFO - ✅ Found Project Name: BARSANA RESIDENCY - II
+2025-05-24 12:27:32,340 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 12:27:32,426 - INFO - ✅ Found Address: PLOT NO-2570,PODDAR HEIGHTS,PODDAR COLONY,KHETRAJPUR,Sambalpur,Odisha,768003
+2025-05-24 12:27:32,441 - INFO - ✅ Found GST No: 21AREPP3171E1Z7
+2025-05-24 12:27:34,446 - INFO - 🔄 Processing project 4/6
+2025-05-24 12:27:40,733 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:27:45,845 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 12:27:52,086 - INFO - ✅ Found RERA No: PS/7/2025/01358
+2025-05-24 12:27:52,119 - INFO - ✅ Found Project Name: KRISHNA MANOR PH-II
+2025-05-24 12:27:56,205 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 12:27:56,248 - INFO - ✅ Found Promoter Name: KRISHNA PROPERTIES & DEVELOPERS PRIVATE LIMITED
+2025-05-24 12:27:56,272 - INFO - ✅ Found Address: Plot No-46,Indraprastha Housing Colony, Phase-ii, Pokhariput,Bhubaneswar,Odisha-751020,,,,,
+2025-05-24 12:27:56,289 - INFO - ✅ Found GST No: 21AAECK8663L2Z7
+2025-05-24 12:27:58,294 - INFO - 🔄 Processing project 5/6
+2025-05-24 12:28:04,626 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:28:09,735 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 12:28:15,960 - INFO - ✅ Found RERA No: PS/19/2025/01351
+2025-05-24 12:28:15,999 - INFO - ✅ Found Project Name: BHAVYAVILLA
+2025-05-24 12:28:20,096 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 12:28:20,164 - INFO - ✅ Found Promoter Name: SUNSHINE INFRATECH
+2025-05-24 12:28:20,184 - INFO - ✅ Found Address: PLOT NO 339,GOUTAMNAGAR,BJB NAGAR,Khordha,Odisha,751014
+2025-05-24 12:28:20,202 - INFO - ✅ Found GST No: 21ACMFS3976P1ZC
+2025-05-24 12:28:22,206 - INFO - 🔄 Processing project 6/6
+2025-05-24 12:28:28,562 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 12:28:33,678 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 12:28:39,997 - INFO - ✅ Found RERA No: RP/19/2025/01355
+2025-05-24 12:28:40,028 - INFO - ✅ Found Project Name: Apartment/Tower
+2025-05-24 12:28:44,111 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 12:28:44,154 - INFO - ✅ Found Promoter Name: TRILOCHAN PROJECTS AND DEVELOPERS PVT. LTD
+2025-05-24 12:28:44,179 - INFO - ✅ Found Address: Plot No-208, Flat No-301,Trilochan Plaza,Saheed Nagar,Bhubaneswer,Khordha,Odisha,751007
+2025-05-24 12:28:44,196 - INFO - ✅ Found GST No: 21AAGCT0547E1ZT
+2025-05-24 12:28:46,439 - INFO - ✅ Data saved to odisha_rera_projects_fixed.xlsx
+2025-05-24 12:28:46,441 - INFO - ✅ Data saved to odisha_rera_projects_fixed.csv
+2025-05-24 12:28:46,441 - INFO - ✅ Data saved to odisha_rera_projects_fixed.json
+2025-05-24 17:09:26,943 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 17:09:26,944 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 17:09:34,494 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:09:34,495 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 17:09:34,495 - INFO - 🔄 Processing project 1/6
+2025-05-24 17:09:40,958 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:09:46,127 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 17:09:52,580 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:09:54,703 - INFO - 🔄 Processing project 2/6
+2025-05-24 17:10:01,184 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:10:07,346 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 17:10:13,737 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:10:15,824 - INFO - 🔄 Processing project 3/6
+2025-05-24 17:10:22,153 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:10:28,348 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 17:10:37,711 - INFO - ✅ Found Project Name: Error
+2025-05-24 17:10:37,769 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:10:39,838 - INFO - 🔄 Processing project 4/6
+2025-05-24 17:10:46,194 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:10:52,351 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 17:10:58,731 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:11:00,803 - INFO - 🔄 Processing project 5/6
+2025-05-24 17:11:07,142 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:11:13,267 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 17:11:19,604 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:11:21,676 - INFO - 🔄 Processing project 6/6
+2025-05-24 17:11:28,044 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:11:34,207 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 17:11:40,545 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:11:42,959 - INFO - ✅ Data saved to odisha_rera_projects_fixed.xlsx
+2025-05-24 17:11:42,962 - INFO - ✅ Data saved to odisha_rera_projects_fixed.csv
+2025-05-24 17:11:42,962 - INFO - ✅ Data saved to odisha_rera_projects_fixed.json
+2025-05-24 17:16:13,466 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 17:16:13,467 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 17:16:21,024 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:16:21,025 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 17:16:21,025 - INFO - 🔄 Processing project 1/6
+2025-05-24 17:16:27,335 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:16:32,469 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 17:16:38,728 - INFO - ✅ Found RERA No: RP/01/2025/01362
+2025-05-24 17:16:38,771 - INFO - ✅ Found Project Name: Basanti Enclave
+2025-05-24 17:16:42,868 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:16:42,931 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 17:16:42,955 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 17:16:42,975 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 17:16:44,980 - INFO - 🔄 Processing project 2/6
+2025-05-24 17:16:51,303 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:16:56,411 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 17:17:02,651 - INFO - ✅ Found RERA No: RP/19/2025/01361
+2025-05-24 17:17:02,691 - INFO - ✅ Found Project Name: UDYAYEEN
+2025-05-24 17:17:06,789 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:17:06,845 - INFO - ✅ Found Promoter Name: SHYAMCHAND BUILDERS PRIVATE LIMITED
+2025-05-24 17:17:06,865 - INFO - ✅ Found Address: MIG-II, 21/2, Housing Board Co,Chandrasekharpur,Bhubaneswar,Khordha,Odisha,751016
+2025-05-24 17:17:06,880 - INFO - ✅ Found GST No: 21ABCCS4755J1ZB
+2025-05-24 17:17:08,886 - INFO - 🔄 Processing project 3/6
+2025-05-24 17:17:15,199 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:17:20,274 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 17:17:26,514 - INFO - ✅ Found RERA No: PS/28/2025/01360
+2025-05-24 17:17:26,553 - INFO - ✅ Found Project Name: BARSANA RESIDENCY - II
+2025-05-24 17:17:30,639 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:17:30,728 - INFO - ✅ Found Address: PLOT NO-2570,PODDAR HEIGHTS,PODDAR COLONY,KHETRAJPUR,Sambalpur,Odisha,768003
+2025-05-24 17:17:30,742 - INFO - ✅ Found GST No: 21AREPP3171E1Z7
+2025-05-24 17:17:32,747 - INFO - 🔄 Processing project 4/6
+2025-05-24 17:17:39,034 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:17:44,156 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 17:17:53,494 - INFO - ✅ Found RERA No: PS/7/2025/01358
+2025-05-24 17:17:53,527 - INFO - ✅ Found Project Name: KRISHNA MANOR PH-II
+2025-05-24 17:17:57,616 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:17:57,686 - INFO - ✅ Found Promoter Name: KRISHNA PROPERTIES & DEVELOPERS PRIVATE LIMITED
+2025-05-24 17:17:57,713 - INFO - ✅ Found Address: Plot No-46,Indraprastha Housing Colony, Phase-ii, Pokhariput,Bhubaneswar,Odisha-751020,,,,,
+2025-05-24 17:17:57,733 - INFO - ✅ Found GST No: 21AAECK8663L2Z7
+2025-05-24 17:17:59,738 - INFO - 🔄 Processing project 5/6
+2025-05-24 17:18:06,253 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:18:12,384 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 17:18:18,649 - INFO - ✅ Found RERA No: PS/19/2025/01351
+2025-05-24 17:18:18,772 - INFO - ✅ Found Project Name: BHAVYAVILLA
+2025-05-24 17:18:22,899 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:18:22,965 - INFO - ✅ Found Promoter Name: SUNSHINE INFRATECH
+2025-05-24 17:18:22,985 - INFO - ✅ Found Address: PLOT NO 339,GOUTAMNAGAR,BJB NAGAR,Khordha,Odisha,751014
+2025-05-24 17:18:23,002 - INFO - ✅ Found GST No: 21ACMFS3976P1ZC
+2025-05-24 17:18:25,008 - INFO - 🔄 Processing project 6/6
+2025-05-24 17:18:31,582 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:18:37,729 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 17:18:43,973 - INFO - ✅ Found RERA No: RP/19/2025/01355
+2025-05-24 17:18:44,007 - INFO - ✅ Found Project Name: Apartment/Tower
+2025-05-24 17:18:48,104 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:18:48,182 - INFO - ✅ Found Promoter Name: TRILOCHAN PROJECTS AND DEVELOPERS PVT. LTD
+2025-05-24 17:18:48,199 - INFO - ✅ Found Address: Plot No-208, Flat No-301,Trilochan Plaza,Saheed Nagar,Bhubaneswer,Khordha,Odisha,751007
+2025-05-24 17:18:48,219 - INFO - ✅ Found GST No: 21AAGCT0547E1ZT
+2025-05-24 17:18:50,513 - INFO - ✅ Data saved to odisha_rera_projects_fixed.xlsx
+2025-05-24 17:18:50,516 - INFO - ✅ Data saved to odisha_rera_projects_fixed.csv
+2025-05-24 17:18:50,516 - INFO - ✅ Data saved to odisha_rera_projects_fixed.json
+2025-05-24 17:34:59,772 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 17:34:59,773 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 17:35:07,481 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:35:07,484 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 17:35:07,486 - INFO - 🔄 Processing project 1/6
+2025-05-24 17:35:13,975 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:35:20,139 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 17:35:26,471 - INFO - ✅ Found Project Name: Basanti Enclave
+2025-05-24 17:35:30,576 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:35:30,635 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 17:35:30,661 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 17:35:30,685 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 17:35:32,691 - INFO - 🔄 Processing project 2/6
+2025-05-24 17:35:39,021 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:35:45,133 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 17:35:51,531 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:35:53,635 - INFO - 🔄 Processing project 3/6
+2025-05-24 17:35:59,969 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:36:05,178 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 17:36:11,423 - INFO - ✅ Found RERA No: PS/28/2025/01360
+2025-05-24 17:36:15,563 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:36:15,639 - INFO - ✅ Found Address: PLOT NO-2570,PODDAR HEIGHTS,PODDAR COLONY,KHETRAJPUR,Sambalpur,Odisha,768003
+2025-05-24 17:36:15,655 - INFO - ✅ Found GST No: 21AREPP3171E1Z7
+2025-05-24 17:36:17,658 - INFO - 🔄 Processing project 4/6
+2025-05-24 17:36:24,133 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:36:30,302 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 17:36:36,690 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:36:38,776 - INFO - 🔄 Processing project 5/6
+2025-05-24 17:36:45,107 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:36:51,278 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 17:36:57,625 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:36:59,709 - INFO - 🔄 Processing project 6/6
+2025-05-24 17:37:06,062 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:37:12,230 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 17:37:18,578 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:37:20,941 - INFO - ✅ Data saved to odisha_rera_projects_fixed.xlsx
+2025-05-24 17:37:20,944 - INFO - ✅ Data saved to odisha_rera_projects_fixed.csv
+2025-05-24 17:37:20,944 - INFO - ✅ Data saved to odisha_rera_projects_fixed.json
+2025-05-24 17:45:09,373 - INFO - ====== WebDriver manager ======
+2025-05-24 17:45:09,768 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:45:09,966 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:45:10,159 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:45:10,634 - INFO - WebDriver version 137.0.7151.40 selected
+2025-05-24 17:45:10,637 - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.40/mac-arm64/chromedriver-mac-arm64.zip
+2025-05-24 17:45:10,637 - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/137.0.7151.40/mac-arm64/chromedriver-mac-arm64.zip
+2025-05-24 17:45:10,796 - INFO - Driver downloading response is 200
+2025-05-24 17:45:13,083 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:45:13,362 - INFO - Driver has been saved in cache [/Users/jhanaviagarwal/.wdm/drivers/chromedriver/mac64/137.0.7151.40]
+2025-05-24 17:45:15,890 - INFO - ✅ Chrome WebDriver initialized successfully with automatic driver management
+2025-05-24 17:45:15,891 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 17:45:22,601 - INFO - ✅ Found 10 view details elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:45:22,601 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 17:45:22,601 - INFO - 🔄 Processing project 1/6
+2025-05-24 17:45:22,654 - INFO - ✅ Found 10 view details elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:45:27,773 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 17:45:32,949 - INFO - ✅ Found RERA No: RP/01/2025/01362
+2025-05-24 17:45:36,096 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:45:38,162 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 17:45:38,188 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 17:45:38,207 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 17:45:40,213 - INFO - 🔄 Processing project 2/6
+2025-05-24 17:45:45,709 - INFO - ✅ Found 10 view details elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:45:50,814 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 17:45:55,992 - INFO - ✅ Found RERA No: RP/19/2025/01361
+2025-05-24 17:45:59,110 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:46:01,157 - INFO - ✅ Found Promoter Name: SHYAMCHAND BUILDERS PRIVATE LIMITED
+2025-05-24 17:46:01,179 - INFO - ✅ Found Address: MIG-II, 21/2, Housing Board Co,Chandrasekharpur,Bhubaneswar,Khordha,Odisha,751016
+2025-05-24 17:46:01,195 - INFO - ✅ Found GST No: 21ABCCS4755J1ZB
+2025-05-24 17:46:03,201 - INFO - 🔄 Processing project 3/6
+2025-05-24 17:46:08,549 - INFO - ✅ Found 10 view details elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:46:13,660 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 17:46:25,015 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:46:27,132 - INFO - ✅ Found Address: PLOT NO-2570,PODDAR HEIGHTS,PODDAR COLONY,KHETRAJPUR,Sambalpur,Odisha,768003
+2025-05-24 17:46:29,179 - INFO - 🔄 Processing project 4/6
+2025-05-24 17:46:34,627 - INFO - ✅ Found 10 view details elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:46:39,749 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 17:46:44,921 - INFO - ✅ Found RERA No: PS/7/2025/01358
+2025-05-24 17:46:48,041 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:46:50,089 - INFO - ✅ Found Promoter Name: KRISHNA PROPERTIES & DEVELOPERS PRIVATE LIMITED
+2025-05-24 17:46:50,113 - INFO - ✅ Found Address: Plot No-46,Indraprastha Housing Colony, Phase-ii, Pokhariput,Bhubaneswar,Odisha-751020,,,,,
+2025-05-24 17:46:50,130 - INFO - ✅ Found GST No: 21AAECK8663L2Z7
+2025-05-24 17:46:52,136 - INFO - 🔄 Processing project 5/6
+2025-05-24 17:46:57,503 - INFO - ✅ Found 10 view details elements using: //a[contains(text(), 'View Details')]
+2025-05-24 17:47:02,607 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 17:47:07,787 - INFO - ✅ Found RERA No: PS/19/2025/01351
+2025-05-24 17:47:10,901 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 17:47:12,951 - INFO - ✅ Found Promoter Name: --
+2025-05-24 17:47:12,974 - INFO - ✅ Found Address: --
+2025-05-24 17:47:15,021 - INFO - 🔄 Processing project 6/6
+2025-05-24 17:47:22,519 - ERROR - ❌ Could not find View Details element at index 5
+2025-05-24 17:47:22,519 - WARNING - ⚠️ Could not access details for project 6
+2025-05-24 17:47:24,810 - INFO - ✅ Data saved to odisha_rera_projects.xlsx
+2025-05-24 17:47:24,813 - INFO - ✅ Data saved to odisha_rera_projects.csv
+2025-05-24 17:55:20,124 - INFO - ====== WebDriver manager ======
+2025-05-24 17:55:21,153 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:55:21,343 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 17:55:21,512 - INFO - Driver [/Users/jhanaviagarwal/.wdm/drivers/chromedriver/mac64/137.0.7151.40/chromedriver-mac-arm64/chromedriver] found in cache
+2025-05-24 17:55:23,889 - INFO - ✅ Chrome WebDriver initialized successfully with automatic driver management
+2025-05-24 17:55:23,889 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 17:55:30,535 - INFO - ✅ Found 1 view details elements using: //a[contains(@href, 'view') or contains(@href, 'detail')]
+2025-05-24 17:55:30,535 - INFO - 📋 Found 1 projects, will scrape 1
+2025-05-24 17:55:30,536 - INFO - 🔄 Processing project 1/1
+2025-05-24 17:55:30,569 - INFO - ✅ Found 1 view details elements using: //a[contains(@href, 'view') or contains(@href, 'detail')]
+2025-05-24 17:55:35,782 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 17:55:38,971 - INFO - ✅ Found Project Name: About this app
+2025-05-24 17:55:39,042 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 17:55:41,236 - INFO - ✅ Found GST No: India (English (United States))
+2025-05-24 17:55:43,539 - INFO - ✅ Enhanced data saved to odisha_rera_projects_enhanced.xlsx
+2025-05-24 17:55:43,542 - INFO - ✅ Enhanced data saved to odisha_rera_projects_enhanced.csv
+2025-05-24 18:38:53,921 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 18:38:53,923 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 18:39:03,198 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:39:03,199 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 18:39:03,199 - INFO - 🔄 Processing project 1/6
+2025-05-24 18:39:09,490 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:39:14,672 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 18:39:20,897 - INFO - ✅ Found RERA No: RP/01/2025/01362
+2025-05-24 18:39:20,948 - INFO - ✅ Found Project Name: Basanti Enclave
+2025-05-24 18:39:25,049 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:39:25,108 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 18:39:25,136 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 18:39:25,162 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 18:39:27,169 - INFO - 🔄 Processing project 2/6
+2025-05-24 18:39:33,876 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:39:39,006 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 18:39:45,330 - INFO - ✅ Found Project Name: UDYAYEEN
+2025-05-24 18:39:49,654 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 18:39:51,769 - INFO - 🔄 Processing project 3/6
+2025-05-24 18:39:58,184 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:40:04,286 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 18:40:10,621 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 18:40:12,697 - INFO - 🔄 Processing project 4/6
+2025-05-24 18:40:19,234 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:40:24,333 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 18:40:30,619 - INFO - ✅ Found Project Name: KRISHNA MANOR PH-II
+2025-05-24 18:40:34,898 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 18:40:36,974 - INFO - 🔄 Processing project 5/6
+2025-05-24 18:40:43,311 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:40:49,472 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 18:40:55,813 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 18:40:57,896 - INFO - 🔄 Processing project 6/6
+2025-05-24 18:41:04,254 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:41:10,361 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 18:41:16,728 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 18:41:19,134 - INFO - ✅ Data saved to odisha_rera_projects_fixed.xlsx
+2025-05-24 18:41:19,137 - INFO - ✅ Data saved to odisha_rera_projects_fixed.csv
+2025-05-24 18:41:19,137 - INFO - ✅ Data saved to odisha_rera_projects_fixed.json
+2025-05-24 18:41:49,780 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 18:41:49,780 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 18:41:57,377 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:41:57,378 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 18:41:57,378 - INFO - 🔄 Processing project 1/6
+2025-05-24 18:42:03,824 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:42:08,986 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 18:42:15,432 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 18:42:17,553 - INFO - 🔄 Processing project 2/6
+2025-05-24 18:42:23,862 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:42:26,853 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/68b20c256104d34d71a99cea00447911
+2025-05-24 18:42:26,854 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1092206a0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/68b20c256104d34d71a99cea00447911
+2025-05-24 18:42:26,855 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1092204f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/68b20c256104d34d71a99cea00447911
+2025-05-24 18:42:34,989 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 18:42:34,989 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 18:42:42,722 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:42:42,723 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 18:42:42,723 - INFO - 🔄 Processing project 1/6
+2025-05-24 18:42:49,002 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:42:54,122 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 18:43:00,360 - INFO - ✅ Found RERA No: RP/01/2025/01362
+2025-05-24 18:43:00,407 - INFO - ✅ Found Project Name: Basanti Enclave
+2025-05-24 18:43:04,499 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:43:04,556 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 18:43:04,581 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 18:43:04,601 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 18:43:06,607 - INFO - 🔄 Processing project 2/6
+2025-05-24 18:43:12,899 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:43:18,005 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 18:43:24,225 - INFO - ✅ Found RERA No: RP/19/2025/01361
+2025-05-24 18:43:24,257 - INFO - ✅ Found Project Name: UDYAYEEN
+2025-05-24 18:43:28,340 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:43:28,382 - INFO - ✅ Found Promoter Name: SHYAMCHAND BUILDERS PRIVATE LIMITED
+2025-05-24 18:43:28,405 - INFO - ✅ Found Address: MIG-II, 21/2, Housing Board Co,Chandrasekharpur,Bhubaneswar,Khordha,Odisha,751016
+2025-05-24 18:43:28,421 - INFO - ✅ Found GST No: 21ABCCS4755J1ZB
+2025-05-24 18:43:30,427 - INFO - 🔄 Processing project 3/6
+2025-05-24 18:43:36,739 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:43:41,808 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 18:43:48,045 - INFO - ✅ Found RERA No: PS/28/2025/01360
+2025-05-24 18:43:48,087 - INFO - ✅ Found Project Name: BARSANA RESIDENCY - II
+2025-05-24 18:43:52,172 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:43:52,262 - INFO - ✅ Found Address: PLOT NO-2570,PODDAR HEIGHTS,PODDAR COLONY,KHETRAJPUR,Sambalpur,Odisha,768003
+2025-05-24 18:43:52,277 - INFO - ✅ Found GST No: 21AREPP3171E1Z7
+2025-05-24 18:43:54,283 - INFO - 🔄 Processing project 4/6
+2025-05-24 18:44:00,600 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:44:06,718 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 18:44:12,934 - INFO - ✅ Found RERA No: PS/7/2025/01358
+2025-05-24 18:44:12,969 - INFO - ✅ Found Project Name: KRISHNA MANOR PH-II
+2025-05-24 18:44:17,084 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:44:17,128 - INFO - ✅ Found Promoter Name: KRISHNA PROPERTIES & DEVELOPERS PRIVATE LIMITED
+2025-05-24 18:44:17,151 - INFO - ✅ Found Address: Plot No-46,Indraprastha Housing Colony, Phase-ii, Pokhariput,Bhubaneswar,Odisha-751020,,,,,
+2025-05-24 18:44:17,167 - INFO - ✅ Found GST No: 21AAECK8663L2Z7
+2025-05-24 18:44:19,173 - INFO - 🔄 Processing project 5/6
+2025-05-24 18:44:25,482 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:44:30,612 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 18:44:36,849 - INFO - ✅ Found RERA No: PS/19/2025/01351
+2025-05-24 18:44:36,901 - INFO - ✅ Found Project Name: BHAVYAVILLA
+2025-05-24 18:44:40,976 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:44:41,018 - INFO - ✅ Found Promoter Name: SUNSHINE INFRATECH
+2025-05-24 18:44:41,041 - INFO - ✅ Found Address: PLOT NO 339,GOUTAMNAGAR,BJB NAGAR,Khordha,Odisha,751014
+2025-05-24 18:44:41,058 - INFO - ✅ Found GST No: 21ACMFS3976P1ZC
+2025-05-24 18:44:43,063 - INFO - 🔄 Processing project 6/6
+2025-05-24 18:44:49,367 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:44:54,480 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 18:45:00,701 - INFO - ✅ Found RERA No: RP/19/2025/01355
+2025-05-24 18:45:00,734 - INFO - ✅ Found Project Name: Apartment/Tower
+2025-05-24 18:45:04,828 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:45:04,874 - INFO - ✅ Found Promoter Name: TRILOCHAN PROJECTS AND DEVELOPERS PVT. LTD
+2025-05-24 18:45:04,898 - INFO - ✅ Found Address: Plot No-208, Flat No-301,Trilochan Plaza,Saheed Nagar,Bhubaneswer,Khordha,Odisha,751007
+2025-05-24 18:45:04,914 - INFO - ✅ Found GST No: 21AAGCT0547E1ZT
+2025-05-24 18:45:07,836 - INFO - ✅ Data saved to odisha_rera_projects_fixed.xlsx
+2025-05-24 18:45:07,839 - INFO - ✅ Data saved to odisha_rera_projects_fixed.csv
+2025-05-24 18:45:07,839 - INFO - ✅ Data saved to odisha_rera_projects_fixed.json
+2025-05-24 18:48:40,049 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 18:48:40,050 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 18:48:47,778 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:48:47,778 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 18:48:47,778 - INFO - 🔄 Processing project 1/6
+2025-05-24 18:48:54,258 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:48:59,392 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 18:49:05,632 - INFO - ✅ Found RERA No: RP/01/2025/01362
+2025-05-24 18:49:05,681 - INFO - ✅ Found Project Name: Basanti Enclave
+2025-05-24 18:49:09,793 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:49:09,864 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 18:49:09,899 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 18:49:09,919 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 18:49:11,926 - INFO - 🔄 Processing project 2/6
+2025-05-24 18:49:18,326 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:49:24,510 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 18:49:30,928 - WARNING - ⚠️ Could not find or click Promoter Details tab
+2025-05-24 18:49:33,044 - INFO - 🔄 Processing project 3/6
+2025-05-24 18:49:39,425 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:49:44,518 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 18:49:50,786 - INFO - ✅ Found RERA No: PS/28/2025/01360
+2025-05-24 18:49:50,844 - INFO - ✅ Found Project Name: BARSANA RESIDENCY - II
+2025-05-24 18:49:54,914 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:49:54,964 - INFO - ✅ Found Promoter Name: RITA PODDAR
+2025-05-24 18:49:54,990 - INFO - ✅ Found Address: PLOT NO-2570,PODDAR HEIGHTS,PODDAR COLONY,KHETRAJPUR,Sambalpur,Odisha,768003
+2025-05-24 18:49:55,005 - INFO - ✅ Found GST No: 21AREPP3171E1Z7
+2025-05-24 18:49:57,011 - INFO - 🔄 Processing project 4/6
+2025-05-24 18:50:03,370 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:50:08,480 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 18:50:14,712 - INFO - ✅ Found RERA No: PS/7/2025/01358
+2025-05-24 18:50:14,771 - INFO - ✅ Found Project Name: KRISHNA MANOR PH-II
+2025-05-24 18:50:18,861 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:50:18,901 - INFO - ✅ Found Promoter Name: KRISHNA PROPERTIES & DEVELOPERS PRIVATE LIMITED
+2025-05-24 18:50:18,925 - INFO - ✅ Found Address: Plot No-46,Indraprastha Housing Colony, Phase-ii, Pokhariput,Bhubaneswar,Odisha-751020,,,,,
+2025-05-24 18:50:18,942 - INFO - ✅ Found GST No: 21AAECK8663L2Z7
+2025-05-24 18:50:20,945 - INFO - 🔄 Processing project 5/6
+2025-05-24 18:50:27,260 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:50:32,392 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 18:50:38,615 - INFO - ✅ Found RERA No: PS/19/2025/01351
+2025-05-24 18:50:38,666 - INFO - ✅ Found Project Name: BHAVYAVILLA
+2025-05-24 18:50:42,765 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:50:42,834 - INFO - ✅ Found Promoter Name: SUNSHINE INFRATECH
+2025-05-24 18:50:42,851 - INFO - ✅ Found Address: PLOT NO 339,GOUTAMNAGAR,BJB NAGAR,Khordha,Odisha,751014
+2025-05-24 18:50:42,865 - INFO - ✅ Found GST No: 21ACMFS3976P1ZC
+2025-05-24 18:50:44,872 - INFO - 🔄 Processing project 6/6
+2025-05-24 18:50:51,459 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:50:56,573 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 18:51:02,845 - INFO - ✅ Found RERA No: RP/19/2025/01355
+2025-05-24 18:51:02,879 - INFO - ✅ Found Project Name: Apartment/Tower
+2025-05-24 18:51:06,979 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:51:07,027 - INFO - ✅ Found Promoter Name: TRILOCHAN PROJECTS AND DEVELOPERS PVT. LTD
+2025-05-24 18:51:07,049 - INFO - ✅ Found Address: Plot No-208, Flat No-301,Trilochan Plaza,Saheed Nagar,Bhubaneswer,Khordha,Odisha,751007
+2025-05-24 18:51:07,064 - INFO - ✅ Found GST No: 21AAGCT0547E1ZT
+2025-05-24 18:51:09,351 - INFO - ✅ Data saved to odisha_rera_projects_fixed.xlsx
+2025-05-24 18:51:09,353 - INFO - ✅ Data saved to odisha_rera_projects_fixed.csv
+2025-05-24 18:51:09,354 - INFO - ✅ Data saved to odisha_rera_projects_fixed.json
+2025-05-24 18:53:13,743 - INFO - ====== WebDriver manager ======
+2025-05-24 18:53:14,184 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 18:53:14,381 - INFO - Get LATEST chromedriver version for google-chrome
+2025-05-24 18:53:14,550 - INFO - Driver [/Users/jhanaviagarwal/.wdm/drivers/chromedriver/mac64/137.0.7151.40/chromedriver-mac-arm64/chromedriver] found in cache
+2025-05-24 18:53:16,834 - INFO - ✅ Chrome WebDriver initialized successfully with automatic driver management
+2025-05-24 18:53:16,836 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 18:53:25,278 - INFO - ✅ Found 4 view details elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:53:25,279 - INFO - 📋 Found 4 projects, will scrape 4
+2025-05-24 18:53:25,279 - INFO - 🔄 Processing project 1/4
+2025-05-24 18:53:25,331 - INFO - ✅ Found 10 view details elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:53:31,481 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 18:53:39,894 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:53:41,959 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 18:53:41,986 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 18:53:42,011 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 18:53:44,016 - INFO - 🔄 Processing project 2/4
+2025-05-24 18:53:49,533 - INFO - ✅ Found 1 view details elements using: //a[contains(@href, 'view') or contains(@href, 'detail')]
+2025-05-24 18:53:49,534 - ERROR - ❌ Could not find View Details element at index 1
+2025-05-24 18:53:49,534 - WARNING - ⚠️ Could not access details for project 2
+2025-05-24 18:53:51,540 - INFO - 🔄 Processing project 3/4
+2025-05-24 18:53:51,675 - INFO - ✅ Found 1 view details elements using: //a[contains(@href, 'view') or contains(@href, 'detail')]
+2025-05-24 18:53:51,675 - ERROR - ❌ Could not find View Details element at index 2
+2025-05-24 18:53:51,676 - WARNING - ⚠️ Could not access details for project 3
+2025-05-24 18:53:53,681 - INFO - 🔄 Processing project 4/4
+2025-05-24 18:53:53,816 - INFO - ✅ Found 1 view details elements using: //a[contains(@href, 'view') or contains(@href, 'detail')]
+2025-05-24 18:53:53,816 - ERROR - ❌ Could not find View Details element at index 3
+2025-05-24 18:53:53,816 - WARNING - ⚠️ Could not access details for project 4
+2025-05-24 18:53:55,996 - INFO - ✅ Enhanced data saved to odisha_rera_projects_enhanced.xlsx
+2025-05-24 18:53:55,999 - INFO - ✅ Enhanced data saved to odisha_rera_projects_enhanced.csv
+2025-05-24 18:59:11,707 - INFO - ✅ Chrome WebDriver initialized successfully
+2025-05-24 18:59:11,707 - INFO - 🚀 Starting to scrape projects...
+2025-05-24 18:59:19,436 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:59:19,436 - INFO - 📋 Found 6 projects, will scrape 6
+2025-05-24 18:59:19,436 - INFO - 🔄 Processing project 1/6
+2025-05-24 18:59:25,736 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:59:30,877 - INFO - ✅ Successfully clicked View Details for project 1
+2025-05-24 18:59:37,114 - INFO - ✅ Found RERA No: RP/01/2025/01362
+2025-05-24 18:59:37,172 - INFO - ✅ Found Project Name: Basanti Enclave
+2025-05-24 18:59:41,268 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 18:59:41,333 - INFO - ✅ Found Promoter Name: M/S. NEELACHAL INFRA DEVELOPERS PVT. LTD
+2025-05-24 18:59:41,362 - INFO - ✅ Found Address: At-Gurudwara, PO-South Balanda, Via-Talcher Rural-INR, Anugul, PIN-759116,,,,,
+2025-05-24 18:59:41,383 - INFO - ✅ Found GST No: 21AADCN5439J2ZH
+2025-05-24 18:59:43,389 - INFO - 🔄 Processing project 2/6
+2025-05-24 18:59:49,731 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 18:59:54,864 - INFO - ✅ Successfully clicked View Details for project 2
+2025-05-24 19:00:01,100 - INFO - ✅ Found RERA No: RP/19/2025/01361
+2025-05-24 19:00:01,132 - INFO - ✅ Found Project Name: UDYAYEEN
+2025-05-24 19:00:05,245 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 19:00:05,290 - INFO - ✅ Found Promoter Name: SHYAMCHAND BUILDERS PRIVATE LIMITED
+2025-05-24 19:00:05,313 - INFO - ✅ Found Address: MIG-II, 21/2, Housing Board Co,Chandrasekharpur,Bhubaneswar,Khordha,Odisha,751016
+2025-05-24 19:00:05,329 - INFO - ✅ Found GST No: 21ABCCS4755J1ZB
+2025-05-24 19:00:07,335 - INFO - 🔄 Processing project 3/6
+2025-05-24 19:00:13,633 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 19:00:18,744 - INFO - ✅ Successfully clicked View Details for project 3
+2025-05-24 19:00:24,957 - INFO - ✅ Found RERA No: PS/28/2025/01360
+2025-05-24 19:00:24,991 - INFO - ✅ Found Project Name: BARSANA RESIDENCY - II
+2025-05-24 19:00:29,080 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 19:00:29,124 - INFO - ✅ Found Promoter Name: RITA PODDAR
+2025-05-24 19:00:29,147 - INFO - ✅ Found Address: PLOT NO-2570,PODDAR HEIGHTS,PODDAR COLONY,KHETRAJPUR,Sambalpur,Odisha,768003
+2025-05-24 19:00:29,175 - INFO - ✅ Found GST No: 21AREPP3171E1Z7
+2025-05-24 19:00:31,178 - INFO - 🔄 Processing project 4/6
+2025-05-24 19:00:37,460 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 19:00:42,553 - INFO - ✅ Successfully clicked View Details for project 4
+2025-05-24 19:00:48,796 - INFO - ✅ Found RERA No: PS/7/2025/01358
+2025-05-24 19:00:48,829 - INFO - ✅ Found Project Name: KRISHNA MANOR PH-II
+2025-05-24 19:00:52,883 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 19:00:52,927 - INFO - ✅ Found Promoter Name: KRISHNA PROPERTIES & DEVELOPERS PRIVATE LIMITED
+2025-05-24 19:00:52,950 - INFO - ✅ Found Address: Plot No-46,Indraprastha Housing Colony, Phase-ii, Pokhariput,Bhubaneswar,Odisha-751020,,,,,
+2025-05-24 19:00:52,966 - INFO - ✅ Found GST No: 21AAECK8663L2Z7
+2025-05-24 19:00:54,971 - INFO - 🔄 Processing project 5/6
+2025-05-24 19:01:01,309 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 19:01:06,391 - INFO - ✅ Successfully clicked View Details for project 5
+2025-05-24 19:01:12,610 - INFO - ✅ Found RERA No: PS/19/2025/01351
+2025-05-24 19:01:12,648 - INFO - ✅ Found Project Name: BHAVYAVILLA
+2025-05-24 19:01:16,741 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 19:01:16,787 - INFO - ✅ Found Promoter Name: SUNSHINE INFRATECH
+2025-05-24 19:01:16,810 - INFO - ✅ Found Address: PLOT NO 339,GOUTAMNAGAR,BJB NAGAR,Khordha,Odisha,751014
+2025-05-24 19:01:16,827 - INFO - ✅ Found GST No: 21ACMFS3976P1ZC
+2025-05-24 19:01:18,833 - INFO - 🔄 Processing project 6/6
+2025-05-24 19:01:25,196 - INFO - ✅ Found 10 elements using: //a[contains(text(), 'View Details')]
+2025-05-24 19:01:30,279 - INFO - ✅ Successfully clicked View Details for project 6
+2025-05-24 19:01:36,560 - INFO - ✅ Found RERA No: RP/19/2025/01355
+2025-05-24 19:01:36,592 - INFO - ✅ Found Project Name: Apartment/Tower
+2025-05-24 19:01:40,687 - INFO - ✅ Successfully clicked Promoter Details tab
+2025-05-24 19:01:40,733 - INFO - ✅ Found Promoter Name: TRILOCHAN PROJECTS AND DEVELOPERS PVT. LTD
+2025-05-24 19:01:40,756 - INFO - ✅ Found Address: Plot No-208, Flat No-301,Trilochan Plaza,Saheed Nagar,Bhubaneswer,Khordha,Odisha,751007
+2025-05-24 19:01:40,772 - INFO - ✅ Found GST No: 21AAGCT0547E1ZT
+2025-05-24 19:01:43,015 - INFO - ✅ Data saved to odisha_rera_projects_fixed.xlsx
+2025-05-24 19:01:43,018 - INFO - ✅ Data saved to odisha_rera_projects_fixed.csv
+2025-05-24 19:01:43,018 - INFO - ✅ Data saved to odisha_rera_projects_fixed.json
